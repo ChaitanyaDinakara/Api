@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Dbcontext",
+    "\\Entities",
+    "\\Migrations",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Release"
+  ],
+  "PreviewInSolutionExplorer": false
+}
